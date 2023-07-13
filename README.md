@@ -13,4 +13,6 @@ It is a social media platform on which you can post pictures.
 
 ## Screen Shot
 
+<img width="960" alt="image" src="https://github.com/kaifcoder/shareme_social_media/assets/57701861/ad5c8dbd-d26f-41de-9666-9a0e23917631">
+
   
