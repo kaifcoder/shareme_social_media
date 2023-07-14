@@ -1,6 +1,6 @@
 # shareme_social_media
 
-It is a social media platform on which you can post pictures.
+I am proud to present Share Me, a social media app that allows users to create and share their own boards of images. Share Me is inspired by Pinterest, but with some unique features and a modern design. Share Me is built with React and Sanity, two powerful frameworks that enable fast and scalable development. Share Me also integrates Google login feature, which makes it easy for users to sign up and access their accounts. Share Me is a passion project that showcases my skills and creativity as a web developer.
 
 ## Features
   * User can login through there google account.
